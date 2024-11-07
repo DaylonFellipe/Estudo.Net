@@ -1,0 +1,7 @@
+C:\Users\daylo\source\repos\ProjetoOportunidade\bin\Debug\ProjetoOportunidade.exe.config
+C:\Users\daylo\source\repos\ProjetoOportunidade\bin\Debug\ProjetoOportunidade.exe
+C:\Users\daylo\source\repos\ProjetoOportunidade\bin\Debug\ProjetoOportunidade.pdb
+C:\Users\daylo\source\repos\ProjetoOportunidade\obj\Debug\ProjetoOportunidade.csproj.AssemblyReference.cache
+C:\Users\daylo\source\repos\ProjetoOportunidade\obj\Debug\ProjetoOportunidade.csproj.CoreCompileInputs.cache
+C:\Users\daylo\source\repos\ProjetoOportunidade\obj\Debug\ProjetoOportunidade.exe
+C:\Users\daylo\source\repos\ProjetoOportunidade\obj\Debug\ProjetoOportunidade.pdb
